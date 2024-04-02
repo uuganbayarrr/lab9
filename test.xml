@@ -1,0 +1,45 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<breakfast_menu>
+<food>
+<name> Цyйвaн</name>
+<price>6500</price>
+<description>Хонины махтай, өндөгтэй</description>
+<calories>650</calories>
+</food>
+<food>
+<name>Банштай цай</name>
+<price>5500</price>
+<description>нэрийн цай, 20 банштай</description>
+<calories>450</calories>
+</food>
+<food>
+<name>тахианы махан зууш</name>
+<price>5500</price>
+<description>Тахианы цээж махан зууш</description>
+<calories>450</calories>
+</food>
+<food>
+<name>Шaрcан элэг</name>
+<price>6500</price>
+<description>CM шap элэг</description> <calories>650</calories>
+</food>
+<food>
+<name>шарсан Max</name>
+<price>6500</price>
+<description>сонголттой шарсан махан хуурга </description>
+<calories>850</calories>
+</Food>
+<food>
+<name>Гурилтай шел</name>
+<price>5800</price>
+<description>Тойгны шөлтэй гурилтай шөл</description>
+<calories>650</calories>
+</food>
+<food>
+<name>XATад Xоon</name>
+<price>16500</price>
+<description>coнголттой xоoл</description>
+<calories>950</calories>
+</food>
+</breakfast_menu>

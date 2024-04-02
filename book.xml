@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<books><book id="1"><name>Java</name><price>200</price><photo>img/Screenshot 2024-04-02 143910.png</photo></book><book id="2"><name>PHP</name><price>300</price><photo>img/Screenshot 2024-04-02 143910.png</photo></book></books>
